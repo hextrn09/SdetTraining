@@ -8,7 +8,7 @@ public class JenkinsGitEx1{
 			subtractNumbers(5,3);
 	}
 	
-	public static void addNumbers(int a, int b){
+	public void addNumbers(int a, int b){
 		System.out.println("Result of adding " + a + " and " + b + " is: " + (a+b));
 	}
 	
