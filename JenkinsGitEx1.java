@@ -1,3 +1,5 @@
+package com.fanniemae;
+
 public class JenkinsGitEx1{
 	public static void main(String[] args) {
 		System.out.println("Hiiiiii Welcome to Git and Jenkins");
