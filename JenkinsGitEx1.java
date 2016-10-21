@@ -11,7 +11,7 @@ public class JenkinsGitEx1{
 	}
 	
 	public static void subtractNumbers(int a, int b){
-		System.out.println("Result of adding " + a + " and " + b + " is: " + (a-b));
+		System.out.println("Result of subtracting " + a + " and " + b + " is: " + (a-b));
 	}
 
 }
